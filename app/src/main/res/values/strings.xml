@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">SQLiteComponentes</string>
+    <string name="titulo_activity1">Base de datos de componentes</string>
+    <string name="registrar_componente">Registrar componente</string>
+    <string name="onsultar_componente">Consultar componente</string>
+    <string name="lista_spinner">Consultar Lista por Spinner</string>
+    <string name="lista_listview">Consultar lista por ListView</string>
+    <string name="titulo_activity2">Registro de componentes</string>
+    <string name="nombre_componente">Ingrese nombre de componente</string>
+    <string name="precio_componente">Digite el precio</string>
+    <string name="titulo_activity3">Consulta de componentes</string>
+    <string name="campo_consultar_compo">Nombre de componente a consultar</string>
+    <string name="precio">Precio:</string>
+    <string name="categoria">Categoría:</string>
+    <string name="btn_actualizar">Actualizar componente</string>
+    <string name="btn_eliminar_componente">eliminar componente</string>
+    <string name="consultar">Consultar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="titulo_actualizar_componente">Actualizar componente</string>
+    <string name="digite_categoria">Digite categoría</string>
+    <string name="txt_consulte">Consulte componente de la lista</string>
+    <string name="titulo_spinner">Consultar por lista Spinner</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="txt_precio">Precio:</string>
+    <string name="txt_categoria">Categoría:</string>
+    <string name="titulo_activity6">Lista de componentes ListView</string>
+    <string name="titulo_activity7">Información del componente</string>
+    <string name="componente">Componente:</string>
+    <string name="categor_a">Categoría:</string>
+    <string name="btn_registro_de_tienda">Registro de tienda</string>
+    <string name="btn_consultar_tienda_listview">consultar tienda ListView</string>
+    <string name="titulo_registro_de_tienda">Registro de tienda</string>
+    <string name="campo_nombre_tienda">Ingrese el nombre de la tienda</string>
+    <string name="campo_digite_la_direccion">Digite la dirección</string>
+    <string name="campo_celular">Digite el teléfono o número celular</string>
+    <string name="btn_registrar_tienda">Registrar tienda</string>
+    <string name="campo_nit">Digite su NIT</string>
+    <string name="titulo_informacion_de_tienda">Información de Tienda</string>
+    <string name="titulo_activity10">Información de Tiendas - Componentes</string>
+    <string name="informacion_de_tienda">Información de Tienda</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nit">Nit</string>
+    <string name="consultar_lista_en_recyclerview">Consultar lista en RecyclerView</string>
+
+</resources>

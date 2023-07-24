@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/drawable/estilo__info_txt.xml" value="0.2745" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.268" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_actualizar_componente4.xml" value="0.32563405797101447" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_consultar_componente3.xml" value="0.33" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_info_tienda_componente10.xml" value="0.3278985507246377" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_list_view_tienda9.xml" value="0.3278985507246377" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_lista_componentes_list_view6.xml" value="0.33" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_lista_componentes_recycler_view.xml" value="0.21114369501466276" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_lista_spinner5.xml" value="0.36666666666666664" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_mostrar_datos_componente7.xml" value="0.3278985507246377" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_registro_componente2.xml" value="0.36666666666666664" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/activity_registro_tienda8.xml" value="0.3278985507246377" />
+        <entry key="..\:/CARPETA_ANDERSON/CURSO_DE_ANDROID_CON_JAVA_KOTLIN/SQLiteComponentes/app/src/main/res/layout/item_lista_componentes_recycler_view.xml" value="0.4168241965973535" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
